@@ -11,7 +11,7 @@
 
 Construir um **agente single-turn** que usa **function-calling** para resolver problemas com precisão — sem depender de alucinação do modelo.
 
-**👨‍🏫 Professor:** [a definir]
+**👨‍🏫 Professor:**  Nicksson Ckayo Arrais de Freitas
 
 **🎯 Objetivos de Aprendizagem:**
 - **M1-O4:** Implementar function-calling com schema JSON e loop de execução de ferramentas
