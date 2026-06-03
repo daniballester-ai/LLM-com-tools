@@ -104,7 +104,7 @@ run_agent("Calcule 25% de 480 e explique pydantic")  # → 120 + definição �
 
 ## 👩‍💻 Autora
 
-**Danielle Ballester**  
+**Danielle Magalhães Ballester**  
 Residência Tecnológica do SiDi — Turma de IA Aplicada  
 🔗 [GitHub](https://github.com/daniballester-ai)
 
